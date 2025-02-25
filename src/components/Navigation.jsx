@@ -5,16 +5,16 @@ function Navigation() {
     <nav>
       <ul>
         <li>
-          <a href="/aboutme" end className={({ isActive }) => (isActive ? 'active' : '')}>About Me</a>
+          <a href="/Aboutme" end className={({ isActive }) => (isActive ? 'active' : '')}>About Me</a>
         </li>
         <li>
-          <a href="/portfolio" className={({ isActive }) => (isActive ? 'active' : '')}>Portfolio</a>
+          <a href="/Portfolio" className={({ isActive }) => (isActive ? 'active' : '')}>Portfolio</a>
         </li>
         <li>
-          <a href="/contact" className={({ isActive }) => (isActive ? 'active' : '')}>Contact</a>
+          <a href="/Contact" className={({ isActive }) => (isActive ? 'active' : '')}>Contact</a>
         </li>
         <li>
-          <a href="/resume" className={({ isActive }) => (isActive ? 'active' : '')}>Resume</a>
+          <a href="/Resume" className={({ isActive }) => (isActive ? 'active' : '')}>Resume</a>
         </li>
       </ul>
     </nav>
