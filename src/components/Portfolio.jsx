@@ -6,37 +6,37 @@ function Portfolio() {
   const projects = [
     {
       title: 'Project 1',
-      image: './src/image/image1.png',
+      image: './image/image1.png',
       deployedLink: 'https://sfar93.github.io/project-1/',
       githubLink: 'https://github.com/sfar93/project-1'
     },
     {
       title: 'Project 2',
-      image: './src/image/image_3.JPG.png',
+      image: './image/image_3.JPG.png',
       deployedLink: 'https://challenge9-weather.onrender.com/',
       githubLink: 'https://github.com/sfar93/challenge9-weather'
     },
     {
       title: 'Project 3',
-      image: './src/image/image_3.JPG.png',
+      image: './image/image_3.JPG.png',
       deployedLink: 'https://challenge9-weather.onrender.com/',
       githubLink: 'https://github.com/sfar93/challenge9-weather'
     },
     {
       title: 'Project 4',
-      image: './src/image/image 4.png',
+      image: './image/image 4.png',
       deployedLink: 'https://drive.google.com/file/d/18pzOpr6SaRHyDatgHcN7dqaNm38SUnwt/view',
       githubLink: 'https://github.com/sfar93/challenge10-employee-Manager'
     },
     {
       title: 'Project 5',
-      image: './src/image/image 5.png',
+      image: './image/image 5.png',
       deployedLink: 'https://drive.google.com/file/d/10pHxcPNJKyGp-gcv-sE6HEhYjICzYdzU/view?usp=sharing',
       githubLink: 'https://github.com/sfar93/Challenge8-vehicle-generator/tree/main/02-Challenge/Develop'
     },
     {
       title: 'Project 6',
-      image: './src/image/image 6.png',
+      image: './image/image 6.png',
       deployedLink: 'https://drive.google.com/file/d/12yEj9_iq_MATXQW82JffPKxRlJMhvzHj/view?usp=sharing',
       githubLink: 'https://github.com/sfar93/Readme-generator/tree/challenge7'
     },
